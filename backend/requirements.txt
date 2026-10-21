@@ -10,3 +10,5 @@ vaderSentiment==3.3.2
 geopy==2.4.1
 httpx==0.26.0
 aiosqlite==0.19.0
+# Compromised eMudhra trust anchors removed in this release.
+certifi>=2026.10.19
